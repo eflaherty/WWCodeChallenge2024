@@ -1,6 +1,4 @@
-known_users = ["Lisa", "Carrie", "Jesse", "Kim", "Kendra", "Anne", "Jill", "Heather", "Erin"]
-
-print(len(known_users))
+known_users = ["George", "Meredith", "Jesse", "Junior", "Fire", "Chloe", "Georgia", "Jimmie", "Keisha"]
 
 while True:
     print("Hi! My name is Travis")
