@@ -9,4 +9,5 @@ Focus:
 Resources:
 - Udemy course "Python Bible"
 - Udemy course "Python for Data Science and Machine Learning Bootcamp"
+- "Google cloud deploy: test, deploy and manage apps" on LinkedIn learning
 
